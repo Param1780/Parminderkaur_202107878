@@ -25,7 +25,3 @@
         </div>
     </div>
 </body>
- <!-- Footer Section -->
- <footer>
-     <p>&copy; 2023 Historical Art Museum. All Rights Reserved by Navneet Kaur 202107781.</p>
-</html>
